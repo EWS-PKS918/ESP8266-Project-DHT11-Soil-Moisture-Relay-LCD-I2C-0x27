@@ -13,9 +13,9 @@ LED         :     D6 / Your own pin connection
 
 
 /* =================================================================================================================================================== */
-#define BLYNK_TEMPLATE_ID ""                      // Change this with your Tmeplate ID
-#define BLYNK_TEMPLATE_NAME ""                    // Change this with you template name
-#define BLYNK_AUTH_TOKEN ""                       // Change this with you auth token
+#define BLYNK_TEMPLATE_ID ""                      // Change this with your Template ID
+#define BLYNK_TEMPLATE_NAME ""                    // Change this with you Template name
+#define BLYNK_AUTH_TOKEN ""                       // Change this with you Auth token
 
 #include <Wire.h>                                 // Include Wire library for I2C communication
 #include <LiquidCrystal_I2C.h>                    // Include LCD library for I2C communication
