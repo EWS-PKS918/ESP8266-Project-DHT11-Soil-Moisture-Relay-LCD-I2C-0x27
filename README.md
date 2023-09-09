@@ -13,6 +13,7 @@
 
 
 NOTICE :
+    - You need to install Blynk Library (BlynkGSM Manager/TinyGSM)
     - If you want to use custom LCD like OLED and Normal LCD, you need to configure the code a little bit
     - If you want to use DHT22 instead of DHT11, you might need to tweak the code a little bit and integrate it to the code
 
