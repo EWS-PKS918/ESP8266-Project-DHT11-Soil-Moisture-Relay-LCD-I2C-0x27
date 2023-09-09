@@ -15,7 +15,7 @@
 
 
 NOTICE :
-    - You need to install Blynk Library (BlynkGSM Manager/TinyGSM)
+    - You need to install Blynk Library (BlynkGSM Manager/TinyGSM because GitHub doesn't let me)
     
     - If you want to use custom LCD like OLED and Normal LCD, you need to configure the code a little bit
     
