@@ -1,5 +1,7 @@
 # ESP8266 Project DHT11 / Soil-Moisture / Relay / LCD-I2C / LCD-nonI2C / LCD-oled / Water Pump
 
+**This is an open-source project you can edit it whatever you want**
+
 // Components required using this code
 
  - LCD ( Any Type, I2C, OLED or not )
