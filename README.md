@@ -1,4 +1,4 @@
-# ESP8266-Project-DHT11-Soil-Moisture-Relay-LCD-I2C-0x27
+# ESP8266 Project DHT11 / Soil-Moisture / Relay / LCD-I2C / LCD-nonI2C / LCD-oled / Water Pump
 
 // Components required using this code
 
